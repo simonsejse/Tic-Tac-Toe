@@ -8,11 +8,11 @@ import java.util.List;
 
 public class Main {
 
-
+/*
     static List<Integer> XPos = new ArrayList<>();
     static List<Integer> OPos = new ArrayList<>();
     static List<List> possibleWins;
-
+*/
 
    /* static char[][] boards = {
             {' ', '|', ' ', '|', ' '},
