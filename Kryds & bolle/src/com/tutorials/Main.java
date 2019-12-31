@@ -71,7 +71,7 @@ public class Main {
                 System.out.println("Dette er ikke et nummer, forsøg igen.");
             }
         }while(true);
-        */
+        
     }
 
     public static void checkIfWin(){
@@ -89,6 +89,7 @@ public class Main {
         }
 
     }
+    */ 
     /*
     public static void switchTurn(int num){
         turn = turn == 'X' ? 'O' : 'X';
