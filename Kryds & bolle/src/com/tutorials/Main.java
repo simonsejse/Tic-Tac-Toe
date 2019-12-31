@@ -89,7 +89,7 @@ public class Main {
         }
 
     }
-
+    /*
     public static void switchTurn(int num){
         turn = turn == 'X' ? 'O' : 'X';
         if (turn == 'X'){
@@ -138,4 +138,6 @@ public class Main {
             System.out.println(b);
         }
     }
+    
+     */
 }
